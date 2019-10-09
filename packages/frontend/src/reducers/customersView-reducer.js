@@ -1,5 +1,6 @@
 // commonJS, don't use import - to support command-magic
 const { generateExport } = require('./command-magic');
+const notifyChangeCommand = require('./notifyChangeCommand');
 
 // The command-magic generateExport creates these elements for me:
 //
