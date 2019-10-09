@@ -1,0 +1,13 @@
+{
+  "eslint.workingDirectories": [
+    "packages/command-processor",
+    "packages/fullstack-demo-command-processor",
+    "packages/fullstack-demo-logger",
+    "packages/fullstack-demo-read-model",
+    "packages/fullstack-demo-http-client",
+    "packages/fullstack-demo-change-notifier",
+    "packages/readmodel-customers",
+    "packages/readmodel-orders",
+    "packages/frontend"
+  ]
+}

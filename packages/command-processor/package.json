@@ -1,0 +1,12 @@
+{
+  "name": "command-processor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fullstack-demo-command-processor": "file:../fullstack-demo-command-processor"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}

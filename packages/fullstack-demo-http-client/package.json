@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-demo-http-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cardinal": "^2.1.1",
+    "chalk": "^2.4.2",
+    "isomorphic-fetch": "^2.2.1",
+    "jsonic": "^0.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.5.1"
+  }
+}
